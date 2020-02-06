@@ -26,12 +26,12 @@ I like to listen to music When i am ideal.
 
 ## Git IT Tutorial Screenshot
 
-![GIT TUTORIAL](images/Git-it-VINIT.jpg "Git-IT")
-![GIT TUTORIAL](images/PowerShell-Version.jpg "PowerShell")
-![GIT TUTORIAL](images/Chocolatey.jpg "Chocolatey")
-![GIT TUTORIAL](images/Git-Version.jpg "Git version with Email")
-![GIT TUTORIAL](images/Packer-Version.jpg "Packer")
-![GIT TUTORIAL](images/Vagrant-Version.jpg "Vagrant")
-![GIT TUTORIAL](images/Virtual-Box.jpg "Virtual Box")
-![GIT TUTORIAL](images/VScode.jpg "VScode")
+![GIT TUTORIAL](images/Git-it-VINIT.png "Git-IT")
+![GIT TUTORIAL](images/PowerShell-Version.png "PowerShell")
+![GIT TUTORIAL](images/Chocolatey.png "Chocolatey")
+![GIT TUTORIAL](images/Git-Version.png "Git version with Email")
+![GIT TUTORIAL](images/Packer-Version.png "Packer")
+![GIT TUTORIAL](images/Vagrant-Version.png "Vagrant")
+![GIT TUTORIAL](images/Virtual-Box.png "Virtual Box")
+![GIT TUTORIAL](images/VScode.png "VScode")
 
